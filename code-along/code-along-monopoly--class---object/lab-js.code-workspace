@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\vinot\\Documents\\VS_Code_Workspace\\monopoly"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "monopoly-js"
+	}
+}
